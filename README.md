@@ -14,6 +14,8 @@
 ![image](https://user-images.githubusercontent.com/13105073/83524486-a4c1fd00-a51e-11ea-90ed-696cd6860ea0.png)
 
 
+
+
 # Moel 2.
 ![image](https://user-images.githubusercontent.com/13105073/83524524-b1465580-a51e-11ea-91fa-323918a438c8.png)
 
@@ -28,6 +30,8 @@
 
 ## 4. Images and corresponding probability that predicted Wrong
 ![image](https://user-images.githubusercontent.com/13105073/83525952-aa204700-a520-11ea-86b0-93fb142bdf5d.png)
+
+
 
 # Moel 3.
 ![image](https://user-images.githubusercontent.com/13105073/83525996-b99f9000-a520-11ea-8d20-82f5b7843948.png)
